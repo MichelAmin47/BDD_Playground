@@ -1,2 +1,2 @@
 # BDD_Playground
-SerentyBDD, Cucumber and WebDriver
+Java, Cucumber and WebDriver
